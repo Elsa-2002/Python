@@ -1,2 +1,1 @@
-# PROGRAMMING IN PYTHON
-
+# Mazesolver
